@@ -13,4 +13,4 @@ install:
 
 # Run the unit test
 script:
-- python3 leakcheck.py -v
+- python3 antidote.py -v
