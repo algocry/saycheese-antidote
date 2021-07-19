@@ -43,7 +43,7 @@ $ python3 antidote.py
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our [code of conduct](CODE_OF_CONDUCT.md) and the process of submitting pull requests to us.
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/StrinTH/ScrapChat)](https://github.com/StrinTH/saycheese-antidote/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/0x0is1/ScrapChat)](https://github.com/StrinTH/saycheese-antidote/blob/master/LICENSE)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
