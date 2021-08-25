@@ -7,12 +7,7 @@
 
 #### Disclaimer:
 
-Many script kiddies are misusing and playing with thelinuxchoice's saycheese script.
-which is basically a legal camera spoofing tool. So here is a script, to bust those kid.
-instead of opening their ngrok link, paste it in this program and it will detect if it positive to saycheese.
-
-if positive, it will give you option to send your message to that kid in the form of image, instead of your camera shots.
-
+Detection and Hijacking saycheese camera spoofing tool by thelinuxchoice.
 
 # Installation
 ## Linux:
